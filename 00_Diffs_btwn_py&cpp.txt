@@ -1,0 +1,4 @@
+First and foremost is comments are done using '//' instead of '#'.
+second is that, like python, there isn't brackets for every function, we have to use '<<' and '>>' sometimes.
+EVERY FUNCTION MUST BE CLOSED BY ';'.
+Every space is ignored in C++
